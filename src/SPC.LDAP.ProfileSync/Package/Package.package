@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="bbdfb541-8bcb-49f8-aa30-034591ca031d" solutionId="bbdfb541-8bcb-49f8-aa30-034591ca031d" resetWebServer="false" sharePointProductVersion="15.0" name="SPC.LDAP.ProfileSync" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="82282ed8-61c5-4346-9a2c-550cf519a410" />
+  </features>
+</package>
